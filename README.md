@@ -1,0 +1,1 @@
+Esse projeto tem como objetivo desenvolver um algoritmo de ML para classificação, todas as informações sobre a base voce encontra aqui ---> [Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn.csv)
