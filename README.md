@@ -8,7 +8,7 @@ Sou de Minas Gerais, tenho 26 anos e estou no caminho para me tornar um Especial
 Sobre mim:
 🔭 Atualmente trabalhando em projetos de Machine Learning.
 
-📚 Estudando profundamente o ecossistema de IA na IA Expert Academy.
+📚 Estudando profundamente o ecossistema de IA.
 
 🎓 Estudante de Engenharia de Computação na UNIFEI - Itabira.
 
