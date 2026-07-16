@@ -13,7 +13,7 @@ O conjunto de dados inclui informações sobre:
 * **Demografia:** Informações sobre os clientes – gênero, faixa etária e se possuem parceiros e dependentes.
 
 ## Inspiração
-Explorar este tipo de modelo e aprender mais sobre o assunto.
+Explorar este tipo de dados e aprender mais sobre o assunto.
 
 LINK para o dataset e mais informações: [Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn.csv)
 
@@ -33,6 +33,6 @@ The data set includes information about:
 * **Demographics:** Info about customers – gender, age range, and if they have partners and dependents.
 
 ## Inspiration
-To explore this type of models and learn more about the subject.
+To explore this type of data and learn more about the subject.
 
 LINK to dataset for more informations: [Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn?select=WA_Fn-UseC_-Telco-Customer-Churn.csv)
