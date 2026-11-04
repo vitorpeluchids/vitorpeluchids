@@ -2,8 +2,8 @@
 
 **`Cientista de Dados`**
 
-Oi, eu sou o Vitor Peluchi! 🚀
-Sou de Minas Gerais, tenho 26 anos e estou no caminho para me tornar um Especialista em Dados. Meu objetivo é transformar grandes volumes de informação em decisões inteligentes.
+Oi, eu sou o Vitor Peluchi!
+Sou de Minas Gerais, tenho 27 anos e estou no caminho para me tornar um Especialista em Dados. Meu objetivo é transformar grandes volumes de informação em decisões inteligentes.
 
 Sobre mim:
 🔭 Atualmente trabalhando em projetos de Machine Learning.
